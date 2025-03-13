@@ -1,5 +1,4 @@
 
-Here’s an updated version you can use for your GitHub profile README:
 
 Hi there... 👋
 I'm Vimal Vinod V, a passionate student and tech enthusiast focused on creating innovative solutions through software development and problem-solving. I’m always exploring new technologies and finding ways to apply them in real-world scenarios.
